@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rohitashavaggarwal
-- 👀 I’m interested in Java related projects.
-- 🌱 I’m currently learning Java and React.
-- 💞️ I’m looking to collaborate on Apache projects beginning with Apache Commons.
+- 👀 I’m interested in fintech startups.
 - 📫 How to reach me: codewithrohitashav@gmail.com
 
 <!---
